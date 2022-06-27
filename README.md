@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-2510&show_icons=true&locale=en&layout=compact" alt="sneha-2510" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-2510&show_icons=true&locale=en" alt="sneha-2510" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-2510&" alt="sneha-2510" /></p>
 
